@@ -1,4 +1,4 @@
-# MalwareSigChecker *(MSC)*
+# MalwaresSigChecker *(MSC)*
 ## Description:
 > This script check all files to see if is present in blacklist<br>
 > The blacklist must contain the hash of files. (md5/sha1/sha256)<br>
